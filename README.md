@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oshota501&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oshota501&layout=compact&theme=dark)
+
+CMakeなんて書いた記憶ない... (多分フラッター)
+
