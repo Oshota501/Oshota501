@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oshota501&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oshota501&layout=compact&theme=dark)
 ![GitHub MyProfile](https://Oshota501.github.io/public/img/cat_anko.jpg)
+
+
 CMakeなんて書いた記憶ない... (多分フラッター)
 JSとTSと得意な方です。
-PythonとJavaとC#とC++とGoは多分かけます。
+PythonとJavaとC#とC++とGoは多分かけます。（GoとC++は競プロで使っています。）
 GLSLを勉強中です。
