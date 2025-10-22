@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oshota501&layout=compact&theme=dark)
 
 CMakeなんて書いた記憶ない... (多分フラッター)
-
+JSとTSと得意な方です。
+PythonとJavaとC#とC++とGoは多分かけます。
+GLSLを勉強中です。
