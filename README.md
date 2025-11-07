@@ -22,7 +22,5 @@ Here are some ideas to get you started:
 ![GitHub MyProfile](https://Oshota501.github.io/public/img/cat_anko.jpg)
 
 
-CMakeなんて書いた記憶ない... (多分フラッター)
-JSとTSと得意な方です。
-PythonとJavaとC#とC++とGoは多分かけます。（GoとC++は競プロで使っています。）
-GLSLを勉強中です。
+hahaha
+
