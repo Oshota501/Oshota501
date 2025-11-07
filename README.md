@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 
 
 hahaha
+I love css !!!!! position is absolute !!!!
+I love typescript oh there is type : null | undefined | any !!!!! 暗黙的にanyになります。
+I love direct writing html !!!!! <merquee>418 I AM TEAPOT !!!!</marquee>
 
