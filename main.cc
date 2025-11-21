@@ -1,4 +1,4 @@
 #include <iostream>
 int main(){
-    cout << "hello world" << "\n"
+    for(long long int i = 0 ; i < 2000 ; i ++)std::cout << "hello world" << "\n";
 }

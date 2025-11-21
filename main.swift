@@ -1,2 +1,4 @@
-let PI : Double = 3.14159265
-print(PI)
+for _ in 0..<1000{
+    print("hello world")
+    print("hello world")
+}
