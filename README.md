@@ -1,19 +1,7 @@
-## Hi there 👋
+
 # Happy new year 
-<!--
-**Oshota501/Oshota501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 2026 
 
 ## Activity
 
@@ -22,7 +10,6 @@ Here are some ideas to get you started:
 ![GitHub MyProfile](https://Oshota501.github.io/public/img/cat_anko.jpg)
 
 
-hahaha
 - I love css !!!!! position is absolute !!!!
 - I love typescript oh there is type : null | undefined | any !!!!! 暗黙的にanyになります。
 - I love direct writing html !!!!! `<merquee>`418 I AM TEAPOT !!!!`</marquee>`
