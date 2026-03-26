@@ -5,12 +5,12 @@
 
 ## Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Oshota501}&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oshota501&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={Oshota501})]
-(https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Oshota501&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
 
-![GitHub MyProfile](https://Oshota501.github.io/public/img/cat_anko.jpg)
+<img src="https://github-profile-trophy.vercel.app/?username=Oshota501&theme=juicyfresh&no-bg=true" />
+
 
 
 - I love css !!!!! position is absolute !!!!
